@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375124032133",
+    "project_id": "memoapp-b1af3",
+    "storage_bucket": "memoapp-b1af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375124032133:android:23cd4ba1baf43616ff07ec",
+        "android_client_info": {
+          "package_name": "com.example.memoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-51y1B_clmYkszjuf13PLaP6SOsgUcUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
